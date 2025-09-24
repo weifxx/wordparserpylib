@@ -1,3 +1,16 @@
+Metadata-Version: 2.4
+Name: wordparser
+Version: 0.1.0
+Summary: Простая библиотека для извлечения текста, таблиц, свойств и изображений из DOCX
+Author: Maxim Sviridov
+License: MIT
+Keywords: docx,word,parser,zip,xml
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 ## Установка
 
 Локальная установка из исходников:
